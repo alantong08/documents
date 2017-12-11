@@ -1,1 +1,11 @@
+官网
+https://github.com/tesseract-ocr/tesseract/wiki
+
+解决tess4j再mac下找不到dll的问题
 http://www.microshell.com/programming/java/performing-optical-character-recognition-in-java/
+
+mac上文字识别(Tesseract-OCR for mac )
+http://www.jianshu.com/p/016e55c25521
+
+Data Files for Version 3.04/3.05
+https://github.com/tesseract-ocr/tesseract/wiki/Data-Files#data-files-for-version-304305
