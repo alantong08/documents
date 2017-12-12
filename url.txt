@@ -10,5 +10,11 @@ http://www.jianshu.com/p/016e55c25521
 Data Files for Version 3.04/3.05
 https://github.com/tesseract-ocr/tesseract/wiki/Data-Files#data-files-for-version-304305
 
-Tess4J: Invalid memory access
+Tess4J: Invalid memory access solution
 https://stackoverflow.com/questions/19894890/tess4j-invalid-memory-access
+
+esay UI 
+https://www.jeasyui.com/tutorial/form/form1.php
+
+upload file
+https://www.jeasyui.com/demo/main/index.php?plugin=FileBox&theme=material&dir=ltr&pitem=&sort=
