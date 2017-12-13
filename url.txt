@@ -18,3 +18,10 @@ https://www.jeasyui.com/tutorial/form/form1.php
 
 upload file
 https://www.jeasyui.com/demo/main/index.php?plugin=FileBox&theme=material&dir=ltr&pitem=&sort=
+
+opencv
+http://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-java.html#install-opencv-3-x-under-windows
+
+https://docs.opencv.org/3.3.1/d7/d4d/tutorial_py_thresholding.html
+
+http://blog.csdn.net/qq_20823641/article/details/52015087
