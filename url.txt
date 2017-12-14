@@ -25,3 +25,6 @@ http://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-j
 https://docs.opencv.org/3.3.1/d7/d4d/tutorial_py_thresholding.html
 
 http://blog.csdn.net/qq_20823641/article/details/52015087
+
+Spring MVC 
+http://blog.csdn.net/qq_24084925/article/details/53341641
