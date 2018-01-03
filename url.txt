@@ -36,3 +36,9 @@ http://www.jeasyui.net/plugins/169.html
 https://biz.elife.icbc.com.cn/businessHomeLogin/loginPage.action
 16050000055001
 rr112233
+
+
+java -Djava.library.path="Folder which contains your dll" ....
+
+ssh root@118.25.6.215
+pwd: alantong
