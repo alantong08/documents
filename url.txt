@@ -41,3 +41,5 @@ rr112233
 java -Djava.library.path="Folder which contains your dll" ....
 
 http://51mcc.com/category/promo/
+
+https://wenku.baidu.com/view/24894fd84b73f242326c5fe1.html?re=view
