@@ -7,7 +7,7 @@ http://www.microshell.com/programming/java/performing-optical-character-recognit
 Tesseract-OCR for mac
 http://www.jianshu.com/p/016e55c25521
 
-Data Files for Version 3.04/3.05
+Data Files for Version 3.04/3.05   
 https://github.com/tesseract-ocr/tesseract/wiki/Data-Files#data-files-for-version-304305
 
 Tess4J: Invalid memory access solution
@@ -40,5 +40,4 @@ rr112233
 
 java -Djava.library.path="Folder which contains your dll" ....
 
-ssh root@118.25.6.215
-pwd: alantong
+http://51mcc.com/category/promo/
